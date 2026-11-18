@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ashit Kumar Das 👋
 
-<!--
-**ashitkumard031-cyber/ashitkumard031-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Python Learner | Aspiring Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about programming, problem-solving, and learning new technologies.
+
+### 🚀 Currently Learning
+- Python Programming
+- Data Structures and Algorithms
+- Machine Learning
+- Git and GitHub
+
+### 🛠️ Skills
+- Python
+- Git & GitHub
+- Basic Programming
+
+### 📂 My Projects
+- Python Practice Programs
+- Calculator using Python
+- Even and Odd Number Checker
+- Student Grade Calculator
+- To-Do List Application
+
+### 🎯 Goals
+- Improve my coding skills
+- Build real-world projects
+- Become a skilled Software Developer
+
+### 📫 Connect with Me
+- GitHub: [@ashitkumard031-cyber](https://github.com/ashitkumard031-cyber)
+
+⭐ Thanks for visiting my profile!
